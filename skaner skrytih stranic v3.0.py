@@ -20,3 +20,4 @@ while True:
                     print(f"Naydena skrytaya stranica: {full_url}")
             except:
                 pass
+    break
